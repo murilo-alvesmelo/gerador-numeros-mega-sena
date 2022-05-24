@@ -32,7 +32,7 @@ Inicie a aplicação
 
 
 ## Demonstração
-![image](https://drive.google.com/uc?export=view&id=1Ci8t3SPlX2KBUXTaWYdaqAZNndZcpuUU) 
+![Captura de tela 2022-05-24 175203](https://user-images.githubusercontent.com/83835393/170130435-0ef400fb-0d66-440e-a884-6612b1dd03f6.png)
 
 
 ## Stack utilizada
